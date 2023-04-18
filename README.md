@@ -14,5 +14,7 @@ A vanilla chess game created using C++ and SFML.
 
 ### Gameplay
 
-![gameplay1](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png) ![gameplay2](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_2.png)
-![gameplay3](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_3.png) ![gameplay4](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_4.png)
+<img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png" label="Gameplay 1" width="50%"/>
+<img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_2.png" label="Gameplay 2" width="50%"/>
+<img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_3.png" label="Gameplay 3" width="50%"/>
+<img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_4.png" label="Gameplay 4" width="50%"/>
