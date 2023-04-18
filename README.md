@@ -46,4 +46,4 @@ A vanilla Chess game created using C++ and SFML.
 
 ### Installation
 
-The SFML library can be linked with Visual Studio using [these](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) instructions. Once SFML has been linked, add the source files to the project and run.
+The SFML library can be linked with a Visual Studio Project using [these](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) instructions. After linking SFML, add the source files to your project and run.
