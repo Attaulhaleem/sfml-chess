@@ -14,24 +14,6 @@ A vanilla chess game created using C++ and SFML.
 
 ### Gameplay
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-<div class="row">
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png" label="Gameplay 1" width="50%"/>
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_2.png" label="Gameplay 2" width="50%"/>
-</div>
-
-<div class="row">
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_3.png" label="Gameplay 3" width="50%"/>
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_4.png" label="Gameplay 4" width="50%"/>
-</div>
+:-------------------------:|:-------------------------:
+![Gameplay 1](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_1.png)  |  ![Gameplay 2](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_2.png)
+![Gameplay 3](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_3.png)  |  ![Gameplay 4](https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/gameplay_4.png)
