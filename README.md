@@ -1,5 +1,5 @@
 # sfml-chess
-A vanilla chess game created using C++ and SFML.
+A vanilla Chess game created using C++ and SFML.
 
 ## Details
 
@@ -41,3 +41,9 @@ A vanilla chess game created using C++ and SFML.
 - `A` changes notation alignment.
 - `T` turns on threats (for debugging).
 - `L` turns on labels (for debugging).
+
+---
+
+### Installation
+
+The SFML library can be linked with Visual Studio using [these](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) instructions. Once SFML has been linked, add the source files to the project and run.
