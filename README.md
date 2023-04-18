@@ -25,3 +25,15 @@ A vanilla chess game created using C++ and SFML.
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_4.png" width="40%">
 </p>
+
+---
+
+### Controls
+
+- `Q` quits the game.
+- `F` flips the board.
+- `N` toggles notation.
+- `P` changes the piece theme.
+- `B` changes the board to a random color.
+- `R` turns on dynamic RGB color mode.
+- `T` turns on threats (for debugging).
