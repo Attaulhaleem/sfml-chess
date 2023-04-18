@@ -37,6 +37,6 @@ A vanilla chess game created using C++ and SFML.
 - `B` changes the board to a random color.
 - `R` turns on dynamic RGB color mode.
 - `N` toggles notation.
-- `A` changes notation placement.
+- `A` changes notation alignment.
 - `T` turns on threats (for debugging).
 - `L` turns on labels (for debugging).
