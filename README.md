@@ -32,8 +32,11 @@ A vanilla chess game created using C++ and SFML.
 
 - `Q` quits the game.
 - `F` flips the board.
-- `N` toggles notation.
+- `H` hides the pieces.
 - `P` changes the piece theme.
 - `B` changes the board to a random color.
 - `R` turns on dynamic RGB color mode.
+- `N` toggles notation.
+- `A` changes notation placement.
 - `T` turns on threats (for debugging).
+- `L` turns on labels (for debugging).
