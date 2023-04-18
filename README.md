@@ -16,15 +16,15 @@ A vanilla chess game created using C++ and SFML.
 ### Gameplay
 
 <p align="center">
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_1.png" width="40%">
+  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_1.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_2.png" width="40%">
+  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_2.png" width="35%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_3.png" width="40%">
+  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_3.png" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_4.png" width="40%">
+  <img src="https://github.com/Attaulhaleem/sfml-chess/blob/main/docs/capture_4.png" width="35%">
 </p>
 
 ---
