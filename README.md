@@ -32,7 +32,6 @@ A vanilla chess game created using C++ and SFML.
 ### Controls
 
 - `Q` or `Esc` quits the game.
-- ~~`Backspace` undoes a move (known bugs).~~
 - `F` flips the board.
 - `H` hides the pieces.
 - `P` changes the piece theme.
